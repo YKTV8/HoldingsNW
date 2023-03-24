@@ -27,13 +27,13 @@ section, summary, time, mark, audio, video {
 
 }
 #wrapper{
-	background-color: #A1C3DB;
+	background-color: #f3e4d3;
 }
 .inner img{
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	border: #007DE8 4px solid;
+	border: #ffffff 4px solid;
 	width: 70%;
 	height: 85%;
 }
